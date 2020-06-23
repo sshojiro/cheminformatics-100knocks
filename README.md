@@ -2,6 +2,11 @@
 
 ケモインフォマティクス入門用の例題集です。
 
+## 環境構築
+1. AnacondaあるいはMinicondaをインストールしましょう。
+1. [Windows] [Windows Git Bash](https://gitforwindows.org/)をダウンロードしてGit Bashを使えるようにしましょう。その後で`echo HELLO WORLD!`と実行してみましょう。
+1. [Mac] Homebrewをインストールしましょう。様々なソフトを簡単にインストールできるようになります。まずは`brew install git`を実行しましょう。
+
 ## データの読み込み・保存
 1. RDKitでファイルを読み込みましょう。
 1. pandasでcsvファイルを読み込みましょう。
